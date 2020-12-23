@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Walmart challenge FrontEnd - By Fernando Muñoz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta es la parte frontend del Walmart challenge, la he programado usando React
 
-## Available Scripts
+## Cómo ejecutarlo?
 
-In the project directory, you can run:
+Hay varias opciones:
+    - nohup docker run -p 3000:80 walmart-palindromo-front &
 
 ### `yarn start`
 
