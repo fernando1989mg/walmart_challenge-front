@@ -13,9 +13,11 @@ Hay varias opciones:
 *   Descargando la imagen Docker alojada en Docker Hub:
 
     ```
+    docker login
     docker pull fernando1989mg/walmart_challenge-front:v2
-    nohup docker run -p 80:80 fernando1989mg/walmart_challenge-front:v2 &
+    docker run -p 3000:80 fernando1989mg/walmart_challenge-front:v2
     ```
+    De esta manera podrá ejecutarlo en http://localhost:3000
     La imagen Docker del frontend se comunica con el microservicio alojado en AWS para la búsqueda
 
 
