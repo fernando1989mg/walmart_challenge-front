@@ -17,7 +17,8 @@ Hay varias opciones:
     docker pull fernando1989mg/walmart_challenge-front:v2
     docker run -p 3000:80 fernando1989mg/walmart_challenge-front:v2
     ```
-    De esta manera podrá ejecutarlo en http://localhost:3000
+    De esta manera podrá ejecutarlo en http://localhost:3000,
+    
     La imagen Docker del frontend se comunica con el microservicio alojado en AWS para la búsqueda
 
 
