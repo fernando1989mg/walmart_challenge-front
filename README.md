@@ -3,10 +3,6 @@
 Esta es la parte frontend del Walmart challenge, está programada con React
 el proyecto es adaptable a versión desktop y mobile
 
-## Cómo ver el proyecto en ejecución?
-
- - Está publicado en el siguiente link -> https://walmart-challenge.kawm.cl
-
 ## Cómo ejecutarlo en local?
 
 Hay varias opciones:
