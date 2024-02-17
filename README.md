@@ -1,5 +1,7 @@
 # Walmart challenge FrontEnd - By Fernando Muñoz
 
+ES COMPATIBLE CON NODE 16!!
+
 Esta es la parte frontend del Walmart challenge, está programada con React
 el proyecto es adaptable a versión desktop y mobile
 
